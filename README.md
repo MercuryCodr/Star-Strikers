@@ -42,6 +42,6 @@ Energy Powerup: Increases the energy of your shield when the energy is lower tha
 
 Time Powerup: Makes the enemy bullets slower and easier to block.
 
-####### Notes
+Note*
 
 You must modify the directory for the assets to your own computer to play the game. 
