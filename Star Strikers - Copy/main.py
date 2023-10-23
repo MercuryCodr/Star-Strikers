@@ -10,7 +10,7 @@ pygame.mixer.init()
 
 w, h = 900, 650
 WIN = pygame.display.set_mode((w, h))
-pygame.display.set_caption("Star Striker")
+pygame.display.set_caption("Star Strikers")
 
 #Sound effects
 laser = pygame.mixer.Sound("Applications\Pygame\Star Strikers\short laser.wav")
