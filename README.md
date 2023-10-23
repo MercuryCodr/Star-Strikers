@@ -36,6 +36,11 @@ Health Powerup: Increases you spaceship health by 1 every time.
 
 Bullet Powerup: Increases the amount bullets you can shoot rapidly.
 
+####### Notes
+
+You must modify the directory for the assets to your own computer to play the game. 
+
+
 Speed Powerup: Boosts the speed of your spaceship.
 
 Energy Powerup: Increases the energy of your shield when the energy is lower than 45 (Megawatts).
