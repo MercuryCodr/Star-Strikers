@@ -7,6 +7,8 @@ Python game built with the module pygame.
 Live as long as you can while protecting the earth from enemies.
 The earth health bar is at the left and the spaceship health is at the right.
 
+You can press p or ESCAPE to pause. You can press q to quit. 
+
 ### Controls
 
 To move the spaceship you can use the WASD keys or the arrow keys.
