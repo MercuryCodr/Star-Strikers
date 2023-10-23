@@ -43,7 +43,8 @@ Energy Powerup: Increases the energy of your shield when the energy is lower tha
 Time Powerup: Makes the enemy bullets slower and easier to block.
 
 ####### Screen shots
-(https://raw.githubusercontent.com/MercuryCodr/Star-Strikers/main/game%20image.png)
+
+![Play screen](https://raw.githubusercontent.com/MercuryCodr/Star-Strikers/main/game%20image.png)
 
 ######## Notes
 
