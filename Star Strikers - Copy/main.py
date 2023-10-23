@@ -13,14 +13,14 @@ WIN = pygame.display.set_mode((w, h))
 pygame.display.set_caption("Star Strikers")
 
 #Sound effects
-laser = pygame.mixer.Sound("Applications\Pygame\Star Strikers\short laser.wav")
-cannonshot = pygame.mixer.Sound("Applications\Pygame\Star Strikers\shooter.mp3")
-playercolision = pygame.mixer.Sound("Applications\Pygame\Star Strikers\colision2.mp3")
-earthhit = pygame.mixer.Sound("Applications\Pygame\Star Strikers\spacecol.mp3")
-gameover = pygame.mixer.Sound("Applications\Pygame\Star Strikers\game.wav")
-shieldsound = pygame.mixer.Sound("Applications\Pygame\Star Strikers\shieldsound.wav")
-rewardsound = pygame.mixer.Sound("Applications\Pygame\Star Strikers\ereward.wav")
-hit = pygame.mixer.Sound("Applications\Pygame\Star Strikers\enemyhit.mp3")
+laser = pygame.mixer.Sound("Star Strikers - Copy\short laser.wav")
+cannonshot = pygame.mixer.Sound("Star Strikers - Copy\shooter.mp3")
+playercolision = pygame.mixer.Sound("Star Strikers - Copy\colision2.mp3")
+earthhit = pygame.mixer.Sound("Star Strikers - Copy\spacecol.mp3")
+gameover = pygame.mixer.Sound("Star Strikers - Copy\game.wav")
+shieldsound = pygame.mixer.Sound("Star Strikers - Copy\shieldsound.wav")
+rewardsound = pygame.mixer.Sound("Star Strikers - Copy\ereward.wav")
+hit = pygame.mixer.Sound("Star Strikers - Copy\enemyhit.mp3")
 
 FPS = 60
 
@@ -59,35 +59,35 @@ black = (0,0,0)
 
 #Sprite load
 spaceship_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'spaceship.png'))
+    os.path.join('Star Strikers - Copy', 'spaceship.png'))
 alien_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'alien.png'))
+    os.path.join('Star Strikers - Copy', 'alien.png'))
 bullet_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'blue.png'))
+    os.path.join('Star Strikers - Copy', 'blue.png'))
 fire_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'red.png'))
+    os.path.join('Star Strikers - Copy', 'red.png'))
 earth_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'earth.png'))
+    os.path.join('Star Strikers - Copy', 'earth.png'))
 shield_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'shield.png'))
+    os.path.join('Star Strikers - Copy', 'shield.png'))
 heart_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'heart2.png'))
+    os.path.join('Star Strikers - Copy', 'heart2.png'))
 energy_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'bolt.png'))
+    os.path.join('Star Strikers - Copy', 'bolt.png'))
 back_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'space.png'))
+    os.path.join('Star Strikers - Copy', 'space.png'))
 game_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'gameover.png'))
+    os.path.join('Star Strikers - Copy', 'gameover.png'))
 gun_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'bulletpower.png'))
+    os.path.join('Star Strikers - Copy', 'bulletpower.png'))
 r_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'speedpower.png'))
+    os.path.join('Star Strikers - Copy', 'speedpower.png'))
 clock_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'clock.png'))
+    os.path.join('Star Strikers - Copy', 'clock.png'))
 h_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'heart.png'))
+    os.path.join('Star Strikers - Copy', 'heart.png'))
 asteroids_image = pygame.image.load(
-    os.path.join('Applications\Pygame\Star Strikers', 'comet.png'))
+    os.path.join('Star Strikers - Copy', 'comet.png'))
 
 #Sprite list
 spaceship = pygame.transform.rotate(pygame.transform.scale(
