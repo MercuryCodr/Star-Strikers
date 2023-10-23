@@ -24,7 +24,9 @@ Enemies have 10 health points. When you completly kill them, they wiil pause. Bu
 
 ##### Defending
 
-Enemies will rain bullets at you. To defend, you take out your shield and block the bullets from hitting earth. Without the shield, the bullets will take damage on the player. 
+Enemies will rain bullets at you. To defend, you take out your shield and block the bullets from hitting earth. Without the shield, the bullets will take damage on the player.
+
+Once in a while meteors will shoot down from the screen and you must block them. 
 
 ###### Power Ups
 
