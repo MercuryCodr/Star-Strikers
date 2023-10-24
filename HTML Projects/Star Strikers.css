@@ -1,0 +1,253 @@
+body {
+    background-image: url(images/space.png);
+}
+
+.game img{
+    position: absolute;
+    height: 170px;
+    width: 200px;
+    left: 600px;
+}
+
+.name {
+    position: absolute;
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 40px;
+    color: rgb(0, 170, 255);
+    bottom: 475px;
+    left: 400px;
+}
+
+.earth {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+
+.game-image {
+    position: absolute;
+    height: 400px;
+    width: 600px;
+    left: 400px;
+    top: 400px;
+}
+
+.title2 {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 170, 255);
+    position: absolute;
+    left: 550px;
+    top: 1000px;
+}
+
+.title3 {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 170, 255);
+    position: absolute;
+    left: 350px;
+    top: 1100px;
+}
+
+.goal {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 1100px;
+    width: 700px;
+}
+
+.title4 {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 170, 255);
+    position: absolute;
+    left: 200px;
+    top: 1200px;
+}
+
+.wasd {
+    position: absolute;
+    left: 500px;
+    top: 1200px;
+    height: 108px;
+    width: 108px;
+}
+
+.or {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    left: 635px;
+    top: 1225px;
+}
+
+.arrow {
+    position: absolute;
+    left: 700px;
+    top: 1200px;
+    height: 108px;
+    width: 108px;
+}
+
+
+.bullets {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    left: 880px;
+    top: 1200px;
+}
+
+.space {
+    position: absolute;
+    left: 850px;
+    top: 1230px;
+    height: 75px;
+    width: 150px;
+}
+
+.shift {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    left: 1050px;
+    top: 1190px;
+}
+
+.shiftkey {
+    position: absolute;
+    left: 1040px;
+    top: 1230px;
+    height: 75px;
+    width: 100px;
+}
+
+.pause {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 1300px;
+}
+
+.title5 {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 170, 255);
+    position: absolute;
+    left: 400px;
+    top: 1340px;
+}
+
+.attacking-defending {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    left: 130px;
+    top: 1400px;
+    width: 1100px;
+}
+
+.title6 {
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 170, 255);
+    position: absolute;
+    left: 500px;
+    top: 1540px;
+}
+
+.heart {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    left: 200px;
+    top: 1650px;
+}
+
+.bull {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    left: 200px;
+    top: 1750px;
+}
+
+.speed {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    left: 200px;
+    top: 1850px;
+}
+
+.energy {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    left: 200px;
+    top: 1950px;
+}
+
+.time {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    left: 200px;
+    top: 2050px;
+}
+
+.heart-text {
+    position: absolute;
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    left: 300px;
+    top: 1650px;
+}
+
+.bull-text {
+    position: absolute;
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    left: 300px;
+    top: 1750px;
+}
+
+.speed-text {
+    position: absolute;
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    left: 300px;
+    top: 1850px;
+}
+
+.energy-text {
+    position: absolute;
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    left: 300px;
+    top: 1950px;
+    width: 800px
+}
+
+.time-text {
+    position: absolute;
+    font-family: 'Stalinist One', sans-serif;
+    font-size: 14px;
+    color: white;
+    left: 300px;
+    top: 2050px;
+}
